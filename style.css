@@ -63,14 +63,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
 
 .fdiv {
     margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
 }
-
+.Categories{
+    display: flex;
+    justify-content: space-between;   
+}
 .btn-buy {
     padding: 5px;
     background-color: orange;
@@ -78,6 +81,32 @@
     border: none;
     color: white;
 }
-.shoe{
+.perfume{
+    background-color: white;
+    margin-bottom: 100px;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+ .bag1, .shoe{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
+div.bag1:hover ,div.shoe:hover, div.perfume:hover{
+    border: 1px solid gray;
+}
+/* .shoe:hover{
+    border: 1px solid gray;
+}
+.perfume:hover{
+    border: 1px solid gray;
+}  */
