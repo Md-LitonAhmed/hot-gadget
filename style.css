@@ -1,0 +1,83 @@
+#logo {
+    height: 50px;
+}
+
+.carosal-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 30px;
+
+}
+
+.carousel-indicators .caro {
+
+    background-color: #74740a;
+
+}
+
+.carousel-indicators .active {
+
+    background-color: #fafa3a;
+}
+
+.carosal-bg {
+    background-color: aliceblue;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.smp-div {
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.lpt-div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mainDiv-head {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.mainDiv-head a {
+    color: orange;
+    text-decoration: none;
+}
+
+.hov:hover {
+    box-shadow: 4px 4px 5px 5px rgb(240, 178, 178);
+    border-radius: 5px;
+
+}
+
+.hov {
+    padding: 12px;
+}
+
+.bag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.fdiv {
+    margin-top: 30px;
+}
+
+.btn-buy {
+    padding: 5px;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.shoe{
+    align-items: center;
+}
