@@ -103,6 +103,7 @@
 }
 div.bag1:hover ,div.shoe:hover, div.perfume:hover{
     border: 1px solid gray;
+<<<<<<< HEAD
 }
 /* .shoe:hover{
     border: 1px solid gray;
@@ -110,3 +111,6 @@ div.bag1:hover ,div.shoe:hover, div.perfume:hover{
 .perfume:hover{
     border: 1px solid gray;
 }  */
+=======
+}
+>>>>>>> 8649010d0ea066f8c6be28712cf8716c93b7d29b
